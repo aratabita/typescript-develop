@@ -1,0 +1,8 @@
+{
+  "name": "typescript-develop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arataoka/typescript-develop.git",
+  "author": "For Private",
+  "license": "MIT"
+}
